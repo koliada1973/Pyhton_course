@@ -142,7 +142,7 @@ def ask_user_first_pay_date(date1: date, date2: date, delta_days = 10) -> date:
     return result
 
 # Розрахунок дати, віддаленої від початкової на N місяців (1 місяць за замовчанням):
-def add_months(date1: date, day_of_pay: int, months=1) -> date:
+def add_months(date1: date, day_of_pay: int, months: int = 1) -> date:
     """
     Додає до дати задану кількість місяців з урахуванням потрібного дня місяця
     """
@@ -151,9 +151,7 @@ def add_months(date1: date, day_of_pay: int, months=1) -> date:
     year = date1.year + month // 12
     month = month % 12 + 1
     # Визначаємо останній день нового місяця
-    day = min(day_of_pay, [31,
-                            29 if year % 4 == 0 and (year % 100 != 0 or year % 400 == 0) else 28,
-                            31, 30, 31, 30, 31, 31, 30, 31, 30, 31][month - 1])
+    day = min(day_of_pay, [31,29 if year % 4 == 0 and (year % 100 != 0 or year % 400 == 0) else 28,31, 30, 31, 30, 31, 31, 30, 31, 30, 31][month - 1])
     return date1.replace(year=year, month=month, day=day)
 
 # Декоратор функції add_months для отримання дати першої оплати:

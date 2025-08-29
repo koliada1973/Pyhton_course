@@ -474,6 +474,8 @@ def get_plan_pay(display_tab=False) -> float:
     return plan_pay
 
 def main(*kwargs):
+    # У випадку, коли потрібно відобразити всі платежі як таблицю -
+    # передаєм в функцію get_plan_pay True
     plan_pay = get_plan_pay(True)
     print(f'Плановий платіж = {plan_pay}\n')
 
