@@ -22,12 +22,12 @@ class My_Stack:
     def empty(self):
         return len(self.stack) == 0
 
-def reverse_simbols(simbols) -> list:
+def reverse_simbols(iterable) -> list:
     """Функція, що спочатку зберігає елементи в стеку по порядку;
     а потім вилучає елементи зі стеку в обратному порядку"""
     stack1 = My_Stack()     # екземпляр стеку
     # збереження елементів в стек:
-    for item in simbols:
+    for item in iterable:
         stack1.push(item)
     # вилучення елементів зі стеку в обратному порядку в новий список:
     reversed_simvols = []

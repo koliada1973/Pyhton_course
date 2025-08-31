@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2c4d478-71d3-4d0c-b360-ed07d9ddefb7" name="Changes" comment="Копія всіх папок з курсу Python (з домашнім завданням, класною роботою та тестами)">
+      <change afterPath="$PROJECT_DIR$/Lesson25_Lists/my_test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24_Stack_Queue_Deque/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson24_Stack_Queue_Deque/Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24_Stack_Queue_Deque/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson24_Stack_Queue_Deque/Task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson24_Stack_Queue_Deque/my_test2.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="31SuCYQbQBenpgd6gmHneJoLxOA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Task1.executor": "Run",
+    "Python.Task2.executor": "Run",
+    "Python.Task3.executor": "Run",
+    "Python.class_work1.executor": "Run",
+    "Python.class_work2.executor": "Run",
+    "Python.class_work2_Queue.executor": "Run",
+    "Python.class_work3_Deque.executor": "Run",
+    "Python.class_work4.executor": "Run",
+    "Python.my_test1.executor": "Run",
+    "Python.my_test2.executor": "Run",
+    "Python.plan_pay.executor": "Run",
+    "Python.plan_pay_ChatGPT.executor": "Run",
+    "Python.plan_pay_ChatGPT_2.executor": "Run",
+    "Python.test2_SortedList.executor": "Run",
+    "Python.test2_UnsortedList.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\OneDrive\Desktop\Python\Lesson25_Lists" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2c4d478-71d3-4d0c-b360-ed07d9ddefb7" name="Changes" comment="" />
+      <created>1755529667843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755529667843</updated>
+      <workItem from="1755529668949" duration="3225000" />
+      <workItem from="1755668504907" duration="369000" />
+      <workItem from="1755695371204" duration="7082000" />
+      <workItem from="1756045680537" duration="1521000" />
+      <workItem from="1756126904386" duration="7236000" />
+      <workItem from="1756215222082" duration="2845000" />
+      <workItem from="1756305809808" duration="10023000" />
+      <workItem from="1756395798847" duration="9794000" />
+      <workItem from="1756475674985" duration="24176000" />
+      <workItem from="1756566899706" duration="9962000" />
+      <workItem from="1756625584761" duration="14713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$my_test2.coverage" NAME="my_test2 Coverage Results" MODIFIED="1756477894900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson24_Stack_Queue_Deque" />
+    <SUITE FILE_PATH="coverage/Python$test2_UnsortedList.coverage" NAME="test2_UnsortedList Coverage Results" MODIFIED="1756480044877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson24_Stack_Queue_Deque" />
+    <SUITE FILE_PATH="coverage/Python$plan_pay_ChatGPT.coverage" NAME="plan_pay_ChatGPT Coverage Results" MODIFIED="1755668747464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/X_project" />
+    <SUITE FILE_PATH="coverage/Python$class_work1.coverage" NAME="class_work1 Coverage Results" MODIFIED="1756554348607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson26_Search_Hash" />
+    <SUITE FILE_PATH="coverage/Python$my_test1.coverage" NAME="my_test1 Coverage Results" MODIFIED="1756310604519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson24_Stack_Queue_Deque" />
+    <SUITE FILE_PATH="coverage/Python$class_work4.coverage" NAME="class_work4 Coverage Results" MODIFIED="1756405795141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson24_Stack_Queue_Deque" />
+    <SUITE FILE_PATH="coverage/Python$plan_pay_ChatGPT_2.coverage" NAME="plan_pay_ChatGPT_2 Coverage Results" MODIFIED="1755701884500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/X_project" />
+    <SUITE FILE_PATH="coverage/Python$class_work3_Deque.coverage" NAME="class_work3_Deque Coverage Results" MODIFIED="1756405727807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson24_Stack_Queue_Deque" />
+    <SUITE FILE_PATH="coverage/Python$Task2.coverage" NAME="Task2 Coverage Results" MODIFIED="1756647687917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson26_Search_Hash" />
+    <SUITE FILE_PATH="coverage/Python$class_work2_Queue.coverage" NAME="class_work2_Queue Coverage Results" MODIFIED="1756317534283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson24_Stack_Queue_Deque" />
+    <SUITE FILE_PATH="coverage/Python$plan_pay.coverage" NAME="plan_pay Coverage Results" MODIFIED="1755695849900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/X_project" />
+    <SUITE FILE_PATH="coverage/Python$Task3.coverage" NAME="Task3 Coverage Results" MODIFIED="1756578411925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson25_Lists" />
+    <SUITE FILE_PATH="coverage/Python$Task1.coverage" NAME="Task1 Coverage Results" MODIFIED="1756647351557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson26_Search_Hash" />
+    <SUITE FILE_PATH="coverage/Python$test2_SortedList.coverage" NAME="test2_SortedList Coverage Results" MODIFIED="1756485407977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson25_Lists" />
+    <SUITE FILE_PATH="coverage/Python$class_work2.coverage" NAME="class_work2 Coverage Results" MODIFIED="1756144120319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson23_bigO" />
+  </component>
+</project>

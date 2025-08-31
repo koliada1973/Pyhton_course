@@ -22,6 +22,9 @@ class My_Stack:
     def empty(self):
         return len(self.my_list) == 0
 
+    def __str__(self):
+        return [{i:d} for i, d in enumerate(self.my_list)]
+
     def get_from_stack(self, element):
         list1 = []
         OK = True
@@ -51,6 +54,7 @@ st.push(2)
 st.push(3)
 st.push(4)
 st.push(5)
+print(st.__str__())
 print(f'Cтек: {st.my_list}')
 print(f"Вилучений елемент стека: {st.get_from_stack(3)}")
 print(f'Cтек: {st.my_list}')
@@ -77,7 +81,7 @@ class MyQueue:
         return len(self.my_list)
 
     def __str__(self):
-        return [(i, d) for i, d in enumerate(self.my_list)]
+        return [{i:d} for i, d in enumerate(self.my_list)]
 
     def get_from_stack(self, element):
         list1 = []
@@ -108,6 +112,7 @@ q.unqueue(3)
 q.unqueue(4)
 q.unqueue(5)
 print()
+print(q.__str__())
 print(f'Черга: {q.my_list}')
 print(f"Вилучений елемент черги: {q.get_from_stack(5)}")
 print(f'Черга: {q.my_list}')
