@@ -107,6 +107,8 @@ class linkedlist:
         while current:
             if current.value == value:
                 return index
+            else:
+                raise ValueError
             current = current.next
             index += 1
 

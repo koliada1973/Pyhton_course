@@ -14,12 +14,11 @@
         </introspection-scope>
       </schema-mapping>
     </data-source>
-    <data-source name="hr.db" uuid="ee9bf148-9c44-4cbf-9bd6-da19973abcdc">
+    <data-source name="hr" uuid="af0b1c7d-df93-4139-927b-025cb1a1b19f">
       <database-info product="SQLite" version="3.45.1" jdbc-version="4.2" driver-name="SQLite JDBC" driver-version="3.45.1.0" dbms="SQLITE" exact-version="3.45.1" exact-driver-version="3.45">
         <identifier-quote-string>&quot;</identifier-quote-string>
       </database-info>
       <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
-      <secret-storage>master_key</secret-storage>
       <auth-provider>no-auth</auth-provider>
       <schema-mapping>
         <introspection-scope>
