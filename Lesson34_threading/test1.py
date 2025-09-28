@@ -7,7 +7,6 @@ def main():
         "https://www.jython.org",
         "http://olympus.realpython.org/dice",
     ] * 80
-    print(sites)
     start_time = time.perf_counter()
     download_all_sites(sites)
     duration = time.perf_counter() - start_time
