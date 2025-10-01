@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3b9c9b-d79f-4b3a-a237-ee58b956c586" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../PyQt/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PyQt/.idea/PyQt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PyQt/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PyQt/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PyQt/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PyQt/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson34_threading/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson34_threading/Task3_threads.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson35_Multiprocessing/Exchang.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson35_Multiprocessing/Task2_NBU.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson35_Multiprocessing/Task2_NBU_multiprocessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson35_Multiprocessing/Task3_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson35_Multiprocessing/Task3_server_multiprocessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson36_Asyncio/class_work1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson36_Asyncio/class_work0.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,25 +17,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="32QbaQrImBe8ylMEhdyZHVJcFlB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Admin/OneDrive/Desktop/Python/Lesson52_recursion",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/OneDrive/Desktop/Python/Lesson52_recursion&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -53,6 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757355806894</updated>
       <workItem from="1757355808009" duration="17000" />
+      <workItem from="1759305897045" duration="24000" />
     </task>
     <servers />
   </component>
