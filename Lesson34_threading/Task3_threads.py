@@ -11,7 +11,7 @@ import threading
 import time
 
 
-def NBU_request(start_date: date, end_date: date, list_data: list):
+def NBU_request(end_date: date, start_date: date, list_data: list):
     """Функція, що надсилає запит на сайт НБУ, отримує курс валют за певний період часу -
      в нашому від попередньої доби до поточної доби і зберігає ці дані в форматі json в переданий список list_data
      (в запиті також вказується порядок сортування (зростання) за кодом валюти r030)"""

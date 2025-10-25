@@ -5,18 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2c4d478-71d3-4d0c-b360-ed07d9ddefb7" name="Changes" comment="Копія всіх папок з курсу Python (з домашнім завданням, класною роботою та тестами)">
+      <change afterPath="$PROJECT_DIR$/Lesson38_Django/django/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson38_Django/django/.idea/django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson38_Django/django/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson38_Django/django/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson38_Django/django/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson38_Django/django/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson34_threading/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson34_threading/Task3_threads.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson35_Multiprocessing/Exchang.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson35_Multiprocessing/Task2_NBU.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson35_Multiprocessing/Task2_NBU_multiprocessing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson35_Multiprocessing/Task3_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson35_Multiprocessing/Task3_server_multiprocessing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson36_Asyncio/class_work1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson36_Asyncio/class_work0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson52_recursion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson52_recursion/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson34_threading/Exchang.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson34_threading/Exchang.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson34_threading/Task3_threads.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson34_threading/Task3_threads.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,6 +34,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -41,6 +51,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Django Server.Python.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.Batyr.executor&quot;: &quot;Run&quot;,
     &quot;Python.Calculator.executor&quot;: &quot;Run&quot;,
@@ -56,10 +67,13 @@
     &quot;Python.Task2_client.executor&quot;: &quot;Debug&quot;,
     &quot;Python.Task3.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task3_NBU.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task3_threads.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_4.6.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task_5.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_6.5.executor&quot;: &quot;Run&quot;,
     &quot;Python.Timer.executor&quot;: &quot;Run&quot;,
     &quot;Python.ZZZ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c2.executor&quot;: &quot;Run&quot;,
     &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
     &quot;Python.class_work1.executor&quot;: &quot;Run&quot;,
     &quot;Python.class_work1_NBU.executor&quot;: &quot;Run&quot;,
@@ -75,6 +89,7 @@
     &quot;Python.class_work8.executor&quot;: &quot;Run&quot;,
     &quot;Python.class_work_National_Bank.executor&quot;: &quot;Run&quot;,
     &quot;Python.client.executor&quot;: &quot;Run&quot;,
+    &quot;Python.client2.executor&quot;: &quot;Run&quot;,
     &quot;Python.compare.executor&quot;: &quot;Run&quot;,
     &quot;Python.homeclass26.executor&quot;: &quot;Run&quot;,
     &quot;Python.homeclass27superchistovik.executor&quot;: &quot;Run&quot;,
@@ -88,6 +103,7 @@
     &quot;Python.plan_pay.executor&quot;: &quot;Run&quot;,
     &quot;Python.plan_pay_ChatGPT.executor&quot;: &quot;Run&quot;,
     &quot;Python.plan_pay_ChatGPT_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s2.executor&quot;: &quot;Run&quot;,
     &quot;Python.server.executor&quot;: &quot;Run&quot;,
     &quot;Python.server2.executor&quot;: &quot;Run&quot;,
     &quot;Python.sort.executor&quot;: &quot;Run&quot;,
@@ -99,16 +115,18 @@
     &quot;Python.test2_event.executor&quot;: &quot;Run&quot;,
     &quot;Python.test3.executor&quot;: &quot;Run&quot;,
     &quot;Python.test4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/OneDrive/Desktop/Python/Lesson36_Asyncio&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/OneDrive/Desktop/Python&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -119,6 +137,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\OneDrive\Desktop\Python\Lesson37_Chat" />
       <recent name="C:\Users\Admin\OneDrive\Desktop\Python\Lesson36_Asyncio" />
       <recent name="C:\Users\Admin\OneDrive\Desktop\Python\Lesson34_threading" />
     </key>
@@ -202,6 +221,15 @@
       <workItem from="1759305233355" duration="654000" />
       <workItem from="1759305924700" duration="30000" />
       <workItem from="1759305985450" duration="766000" />
+      <workItem from="1759309014043" duration="8255000" />
+      <workItem from="1759494684774" duration="13857000" />
+      <workItem from="1759653591011" duration="13354000" />
+      <workItem from="1759765980360" duration="1254000" />
+      <workItem from="1759768296881" duration="133000" />
+      <workItem from="1760113270021" duration="606000" />
+      <workItem from="1760163619921" duration="4037000" />
+      <workItem from="1760169993691" duration="603000" />
+      <workItem from="1760175260601" duration="48000" />
     </task>
     <servers />
   </component>
@@ -212,34 +240,38 @@
     <SUITE FILE_PATH="coverage/Python$my_tree2.coverage" NAME="my_tree2 Coverage Results" MODIFIED="1757012618952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson27_Tree" />
     <SUITE FILE_PATH="coverage/Python$my_test2.coverage" NAME="my_test2 Coverage Results" MODIFIED="1756477894900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson24_Stack_Queue_Deque" />
     <SUITE FILE_PATH="coverage/Python$test2_UnsortedList.coverage" NAME="test2_UnsortedList Coverage Results" MODIFIED="1756480044877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson24_Stack_Queue_Deque" />
+    <SUITE FILE_PATH="coverage/Python$s2.coverage" NAME="s2 Coverage Results" MODIFIED="1759495966135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson37_Chat" />
     <SUITE FILE_PATH="coverage/Python$Task2_NBU_multiprocessing.coverage" NAME="Task2_NBU_multiprocessing Coverage Results" MODIFIED="1759164508686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson35_Multiprocessing" />
     <SUITE FILE_PATH="coverage/Python$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1758884818117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson35_Multiprocessing" />
     <SUITE FILE_PATH="coverage/Python$Task_4_6.coverage" NAME="Task_4.6 Coverage Results" MODIFIED="1757829068213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prometeus" />
     <SUITE FILE_PATH="coverage/Python$Task3.coverage" NAME="Task3 Coverage Results" MODIFIED="1758707067426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson34_threading" />
     <SUITE FILE_PATH="coverage/Python$Calculator.coverage" NAME="Calculator Coverage Results" MODIFIED="1757355982124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson53_PyQt" />
     <SUITE FILE_PATH="coverage/Python$test2_SortedList.coverage" NAME="test2_SortedList Coverage Results" MODIFIED="1756485407977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson25_Lists" />
+    <SUITE FILE_PATH="coverage/Python$Task_6_5.coverage" NAME="Task_6.5 Coverage Results" MODIFIED="1759332326294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prometeus" />
     <SUITE FILE_PATH="coverage/Python$Task2_NBU_async.coverage" NAME="Task2_NBU_async Coverage Results" MODIFIED="1759171703838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson36_Asyncio" />
     <SUITE FILE_PATH="coverage/Python$class_work1_NBU.coverage" NAME="class_work1_NBU Coverage Results" MODIFIED="1759082075283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson35_Multiprocessing" />
     <SUITE FILE_PATH="coverage/Python$Task_5_2.coverage" NAME="Task_5.2 Coverage Results" MODIFIED="1757841709758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prometeus" />
-    <SUITE FILE_PATH="coverage/Python$server.coverage" NAME="server Coverage Results" MODIFIED="1758118632747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson32_Network_Programming" />
+    <SUITE FILE_PATH="coverage/Python$server.coverage" NAME="server Coverage Results" MODIFIED="1759339309969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson37_Chat" />
     <SUITE FILE_PATH="coverage/Python$my_tree1.coverage" NAME="my_tree1 Coverage Results" MODIFIED="1756914811433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson27_Tree" />
     <SUITE FILE_PATH="coverage/Python$Task1_v1.coverage" NAME="Task1_v1 Coverage Results" MODIFIED="1757164506645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson28_Sorting Algorithms" />
     <SUITE FILE_PATH="coverage/Python$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1759042936145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson36_Asyncio" />
     <SUITE FILE_PATH="coverage/Python$Task1_v_2.coverage" NAME="Task1_v.2 Coverage Results" MODIFIED="1757164101007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson28_Sorting Algorithms" />
     <SUITE FILE_PATH="coverage/Python$plan_pay_ChatGPT_2.coverage" NAME="plan_pay_ChatGPT_2 Coverage Results" MODIFIED="1755701884500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/X_project" />
+    <SUITE FILE_PATH="coverage/Python$Task3_threads.coverage" NAME="Task3_threads Coverage Results" MODIFIED="1760113857341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson34_threading" />
     <SUITE FILE_PATH="coverage/Python$class_work2_Queue.coverage" NAME="class_work2_Queue Coverage Results" MODIFIED="1756317534283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson24_Stack_Queue_Deque" />
     <SUITE FILE_PATH="coverage/Python$class_work2_fibonacci.coverage" NAME="class_work2_fibonacci Coverage Results" MODIFIED="1759079497812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson35_Multiprocessing" />
     <SUITE FILE_PATH="coverage/Python$class_work5.coverage" NAME="class_work5 Coverage Results" MODIFIED="1758734470762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson34_threading" />
     <SUITE FILE_PATH="coverage/Python$my_tree_Utub_.coverage" NAME="my_tree(Utub) Coverage Results" MODIFIED="1757004048169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson27_Tree" />
     <SUITE FILE_PATH="coverage/Python$sort_algoritms.coverage" NAME="sort_algoritms Coverage Results" MODIFIED="1757151077805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson28_Sorting Algorithms" />
     <SUITE FILE_PATH="coverage/Python$Task1.coverage" NAME="Task1 Coverage Results" MODIFIED="1759170821937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson36_Asyncio" />
-    <SUITE FILE_PATH="coverage/Python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1758891814267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson36_Asyncio" />
+    <SUITE FILE_PATH="coverage/Python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1759680896804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
     <SUITE FILE_PATH="coverage/Python$homeclass26.coverage" NAME="homeclass26 Coverage Results" MODIFIED="1758790732181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../BeetRoot GitHub/podolyanyn-python_group_3_homeworks/Serhii_C" />
-    <SUITE FILE_PATH="coverage/Python$client.coverage" NAME="client Coverage Results" MODIFIED="1758118732311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson32_Network_Programming" />
+    <SUITE FILE_PATH="coverage/Python$client.coverage" NAME="client Coverage Results" MODIFIED="1759339315110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson37_Chat" />
     <SUITE FILE_PATH="coverage/Python$plan_pay_ChatGPT.coverage" NAME="plan_pay_ChatGPT Coverage Results" MODIFIED="1755668747464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/X_project" />
     <SUITE FILE_PATH="coverage/Python$Batyr.coverage" NAME="Batyr Coverage Results" MODIFIED="1758365301297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson33_HTTP" />
     <SUITE FILE_PATH="coverage/Python$Task2_Caesar_cipher_algorithm.coverage" NAME="Task2_Caesar_cipher_algorithm Coverage Results" MODIFIED="1758200568569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson32_Network_Programming" />
     <SUITE FILE_PATH="coverage/Python$class_work7.coverage" NAME="class_work7 Coverage Results" MODIFIED="1758734905706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson34_threading" />
+    <SUITE FILE_PATH="coverage/Python$c2.coverage" NAME="c2 Coverage Results" MODIFIED="1759496021304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson37_Chat" />
     <SUITE FILE_PATH="coverage/Python$class_work1.coverage" NAME="class_work1 Coverage Results" MODIFIED="1759164539077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson36_Asyncio" />
     <SUITE FILE_PATH="coverage/Python$server2.coverage" NAME="server2 Coverage Results" MODIFIED="1758118720334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson32_Network_Programming" />
     <SUITE FILE_PATH="coverage/Python$class_work4.coverage" NAME="class_work4 Coverage Results" MODIFIED="1758733900112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson34_threading" />
@@ -249,6 +281,7 @@
     <SUITE FILE_PATH="coverage/Python$plan_pay.coverage" NAME="plan_pay Coverage Results" MODIFIED="1755695849900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/X_project" />
     <SUITE FILE_PATH="coverage/Python$homeclass27superchistovik.coverage" NAME="homeclass27superchistovik Coverage Results" MODIFIED="1758790608888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../BeetRoot GitHub/podolyanyn-python_group_3_homeworks/Serhii_C" />
     <SUITE FILE_PATH="coverage/Python$Cherednichenko.coverage" NAME="Cherednichenko Coverage Results" MODIFIED="1758381337115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson33_HTTP" />
+    <SUITE FILE_PATH="coverage/Python$client2.coverage" NAME="client2 Coverage Results" MODIFIED="1759339268875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson37_Chat" />
     <SUITE FILE_PATH="coverage/Python$Timer.coverage" NAME="Timer Coverage Results" MODIFIED="1758729335117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson34_threading" />
     <SUITE FILE_PATH="coverage/Python$ZZZ.coverage" NAME="ZZZ Coverage Results" MODIFIED="1757182120146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson29_Graph" />
     <SUITE FILE_PATH="coverage/Python$class_work_National_Bank.coverage" NAME="class_work_National_Bank Coverage Results" MODIFIED="1758381207616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson33_HTTP" />
