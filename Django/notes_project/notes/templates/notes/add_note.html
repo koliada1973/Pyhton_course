@@ -11,16 +11,13 @@
 {% endblock %}
 
 {% block content %}
-    <h4>Створення нової нотатки</h4>
+    <h6>Створення нової нотатки</h6>
 
-    <form action="{% url 'notes:add_note' %}" method="post">
-        {% csrf_token %}
-        {{ form|crispy}}
-
-        <input type="submit" value="Зберегти">
-    </form>
-
-{#    <p>#}
-{#        <a href="{% url 'notes:index' %}">⬅ Повернутися до списку нотаток</a>#}
-{#    </p>#}
+    <div class="note-detail">
+        <form action="{% url 'notes:add_note' %}" method="post">
+            {% csrf_token %}
+            {{ form|crispy}}
+            <input type="submit" value="Зберегти">
+        </form>
+    </div>
 {% endblock %}

@@ -13,9 +13,6 @@ from .models import Note, Category
 from .forms import Add_note_form, Edit_note_form
 
 
-# def index(request):
-#     notes_list = Note.objects.all().order_by('-note_created_at')
-#     return render(request, 'notes/index.html', {'notes_list': notes_list})
 
 class IndexView(generic.ListView):
     template_name = "notes/index.html"
@@ -23,12 +20,7 @@ class IndexView(generic.ListView):
 
     def get_queryset(self):
         return Note.objects.all().order_by('-note_created_at')
-        # return Note.objects.filter(note_reminder__gte=F('note_created_at'))
 
-
-# def note_detail(request, note_id):
-#     note = get_object_or_404(Note, pk=note_id)
-#     return render(request, 'notes/note_detail.html', {'note': note})
 
 class DetailView(generic.DetailView):
     model = Note
@@ -63,10 +55,10 @@ def edit_note(request, note_id):
     if request.method == "POST":
         form = Edit_note_form(request.POST)
         if form.is_valid():
+            # note.save(commit=False)   #Чередніченко
             note.note_title = form.cleaned_data["note_title"]
             note.note_text = form.cleaned_data["note_text"]
             note.note_reminder = form.cleaned_data["note_reminder"]
-            # note.note_category = form.cleaned_data["note_category"]
             category_name = form.cleaned_data["note_category"]
             category, created = Category.objects.get_or_create(cat_title=category_name)
             note.note_category = category

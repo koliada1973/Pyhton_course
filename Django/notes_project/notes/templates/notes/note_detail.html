@@ -27,24 +27,19 @@
 {% endblock %}
 
 {% block content %}
-    <h4>Перегляд нотатки</h4>
+    <h6>Перегляд нотатки</h6>
 
     <div class="note-detail">
-        <h1>{{ note.note_title|linebreaks }}</h1>
-        <h6>Категорія: {{ note.note_category}}</h6>
+        <h2>{{ note.note_title|linebreaks }}</h2>
+
         <p class="note-meta">
-            Нагадування: {{ note.note_reminder|date:"d.m.Y H:i" }}<br><br>
+            Категорія: {{ note.note_category}}<br>
+            Нагадування: {{ note.note_reminder|date:"d.m.Y H:i" }}
         </p>
 
         <div class="note-content" style="font-size: 2em;">
             {{ note.note_text|linebreaks }}
         </div>
-{##}
-{#        <hr>#}
-{#        <p class="button-row">#}
-{#            <a href="{% url 'notes:index' %}">⬅ Повернутися до списку нотаток</a>#}
-            {#<a href="{% url 'notes:edit_note' note.id %}">✏️ Редагувати</a>#}
-{#        </p>#}
     </div>
 
     <!-- Модальне вікно підтвердження видалення нотатки (ChatGPT)-->
